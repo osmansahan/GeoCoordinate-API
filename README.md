@@ -227,16 +227,6 @@ pip install geopandas shapely
 # Clone or download the project
 # Ensure data files are in the data/ directory
 ```
-
-## Future Enhancements
-
-- [ ] Redis cache support
-- [ ] REST API endpoints
-- [ ] GraphQL support
-- [ ] Docker containerization
-- [ ] Unit test coverage
-- [ ] Performance monitoring
-
 ## Quick Start
 
 ```python
