@@ -16,7 +16,7 @@ from src.api import CoordinateAPI
 
 def main():
     """Main function"""
-    print("Coordinate API")
+    print("GeoCoordinate API - https://github.com/osmansahan/GeoCoordinate-API")
     print("=" * 50)
     
     # Initialize API
